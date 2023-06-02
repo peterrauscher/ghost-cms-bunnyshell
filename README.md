@@ -1,2 +1,2 @@
 # ghost-cms-bunnyshell
-A Bunnyshell template for spinning up your very own deployment of Ghost, the widely used blogging and content management system for online content creators.
+A Bunnyshell template for deploying a new instance of Ghost, the widely used open-source blogging platform. My submission for the Bunnyshell Stack Jam Hackathon.
